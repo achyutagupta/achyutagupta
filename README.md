@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achyuta Gupta</h1>
 <h3 align="center">A Dependable Web Developer.</h3>
 
-<p align="left"> <img src="https : //profile-counter.glitch.me/achyutagupta/count.svg" alt="achyutagupta" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/achyutagupta/count.svg" alt="achyutagupta" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

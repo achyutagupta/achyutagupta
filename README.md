@@ -7,9 +7,9 @@
 <p align="left">
 <a href="https://github.com/achyutagupta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="achyutagupta888rg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/achyuta-gupta-769104228" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="achyuta-gupta-769104228" height="30" width="40" /></a>
-<a href="https://instagram.com/achyutagupta" target="blank"><img align="center" src="" alt="achyutagupta" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/achyutagupta" target="blank"><img align="center" src="" alt="achyutagupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/achyutagupta888rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="achyutagupta888rg" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -38,6 +38,8 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </p>
+
+<p><img align="center" src="https://leetcode.card.workers.dev/achyutagupta888rg?theme=default&font=&extension=null" alt="achyutagupta" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyutagupta&show_icons=true&locale=en&layout=compact" alt="achyutagupta" /></p>
 

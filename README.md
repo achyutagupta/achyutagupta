@@ -41,8 +41,8 @@
 
 <p><img align="center" src="https://leetcode.card.workers.dev/achyutagupta888rg?theme=default&font=&extension=null" alt="achyutagupta" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyutagupta&show_icons=true&locale=en&layout=compact" alt="achyutagupta" /></p>
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=achyutagupta&show_icons=true&locale=en&layout=compact" alt="achyutagupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achyutagupta&show_icons=true&locale=en" alt="achyutagupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achyutagupta&show_icons=true&locale=en" alt="achyutagupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achyutagupta&" alt="achyutagupta" /></p>

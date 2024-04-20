@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achyuta Gupta</h1>
-<h3 align="center">A Dependable Web Developer.</h3>
+<h3 align="center">A Dependable Software Developer.</h3>
 <h3 align="left">Profile Views:</h3>
 <p align="left"> <img src="https://profile-counter.glitch.me/achyutagupta/count.svg" alt="achyutagupta" /> </p>
 

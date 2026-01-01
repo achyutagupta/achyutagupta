@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achyuta Gupta</h1>
 <h3 align="center">A Dependable Software Developer.</h3>
-<h3 align="left">Profile Views:</h3>
-<p align="left"> <img src="https://profile-counter.glitch.me/achyutagupta/count.svg" alt="achyutagupta" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +38,3 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=achyutagupta&show_icons=true&locale=en&layout=compact" alt="achyutagupta" /></p>
-
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=achyutagupta&show_icons=true&locale=en" alt="achyutagupta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achyutagupta&" alt="achyutagupta" /></p>

@@ -38,7 +38,7 @@
  </p>
 <h3 align="left">
   Connect with me:
-  <a href="https://linkedin.com/in/achyuta-gupta-769104228" target="blank">
+  <a href="https://linkedin.com/in/achyuta-gupta-769104228" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="achyuta-gupta-769104228" height="30" width="30" />
   </a>
 </h3>
